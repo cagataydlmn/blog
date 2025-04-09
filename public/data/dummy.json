@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
+    "title": "Ürün 1",
+    "description": "Bu ürün mükemmel özelliklere sahip ve çok kullanışlı."
+  },
+  {
+    "id": 2,
+    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
+    "title": "Ürün 2",
+    "description": "Yüksek kaliteli ve dayanıklı bir ürün."
+  },
+  {
+    "id": 3,
+    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
+    "title": "Ürün 3",
+    "description": "Kullanıcı dostu ve şık bir tasarıma sahip."
+  },
+  {
+    "id": 4,
+    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
+    "title": "Ürün 4",
+    "description": "Fiyat/performans açısından en iyi seçeneklerden biri."
+  },
+  {
+    "id": 5,
+    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
+    "title": "Ürün 5",
+    "description": "Özel tasarımı ile dikkat çeker ve fonksiyoneldir."
+  },
+  {
+    "id": 6,
+    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
+    "title": "Ürün 6",
+    "description": "Özel tasarımı ile dikkat çeker ve fonksiyoneldir.Özel tasarımı ile dikkat çeker ve fonksiyoneldir.Özel tasarımı ile dikkat çeker ve fonksiyoneldir."
+  }
+];
