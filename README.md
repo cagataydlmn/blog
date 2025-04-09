@@ -15,6 +15,7 @@
 1. `npm install`
 2. `npm start`
 3. http://localhost:3000 adresinden erişim
+4. https://cagatayblog.netlify.app/ adresinden demo erişim
 
 ## Uygulanan Özellikler
 - [ ] Blog listeleme
@@ -22,4 +23,4 @@
 - [ ] Responsive tasarım
 - [ ] Son bloglar bölümü
 - [ ] Kullanıcı kaydı ve girişi
-# blog
+
