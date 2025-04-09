@@ -1,38 +1,82 @@
 [
   {
     "id": 1,
-    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
-    "title": "Ürün 1",
-    "description": "Bu ürün mükemmel özelliklere sahip ve çok kullanışlı."
+    "title": "Web Geliştirme Trendleri 2024",
+    "content": "2024 yılında frontend ve backend teknolojilerinde öne çıkacak trendleri derledik. React, Vue ve Svelte karşılaştırması.",
+    "author": "Tekin Yılmaz",
+    "date": "2024-01-10",
+    "img": "https://picsum.photos/id/1/800/400"
   },
   {
     "id": 2,
-    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
-    "title": "Ürün 2",
-    "description": "Yüksek kaliteli ve dayanıklı bir ürün."
+    "title": "Python ile Makine Öğrenmesi",
+    "content": "Scikit-learn kütüphanesini kullanarak basit bir makine öğrenmesi projesi nasıl yapılır? Adım adım anlatım.",
+    "author": "Aylin Demir",
+    "date": "2024-02-15",
+    "img": "https://picsum.photos/id/20/800/400"
   },
   {
     "id": 3,
-    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
-    "title": "Ürün 3",
-    "description": "Kullanıcı dostu ve şık bir tasarıma sahip."
+    "title": "Mobil Uygulama Tasarım İlkeleri",
+    "content": "Kullanıcı dostu bir mobil uygulama tasarlarken dikkat edilmesi gereken 10 temel prensip.",
+    "author": "Can Kaya",
+    "date": "2023-12-05",
+    "img": "https://picsum.photos/id/30/800/400"
   },
   {
     "id": 4,
-    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
-    "title": "Ürün 4",
-    "description": "Fiyat/performans açısından en iyi seçeneklerden biri."
+    "title": "Blockchain Teknolojisi Nedir?",
+    "content": "Blockchain'in temel çalışma prensipleri ve gerçek dünya uygulama örnekleri.",
+    "author": "Deniz Aktaş",
+    "date": "2023-11-20",
+    "img": "https://picsum.photos/id/40/800/400"
   },
   {
     "id": 5,
-    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
-    "title": "Ürün 5",
-    "description": "Özel tasarımı ile dikkat çeker ve fonksiyoneldir."
+    "title": "Veri Güvenliği İçin En İyi Uygulamalar",
+    "content": "Şirket verilerinizi korumak için uygulamanız gereken 7 kritik güvenlik önlemi.",
+    "author": "Emre Öztürk",
+    "date": "2024-03-01",
+    "img": "https://picsum.photos/id/50/800/400"
   },
   {
     "id": 6,
-    "img": "https://static.daktilo.com/sites/243/uploads/2022/04/24/c8375b93-d80c-402e-8a3b-72f6cc9da8cf.jpg",
-    "title": "Ürün 6",
-    "description": "Özel tasarımı ile dikkat çeker ve fonksiyoneldir.Özel tasarımı ile dikkat çeker ve fonksiyoneldir.Özel tasarımı ile dikkat çeker ve fonksiyoneldir."
+    "title": "UI/UX Tasarımında Renk Psikolojisi",
+    "content": "Renk seçimleriniz kullanıcı deneyimini nasıl etkiler? Ana renklerin psikolojik etkileri.Renk seçimleriniz kullanıcı deneyimini nasıl etkiler? Ana renklerin psikolojik etkileri.",
+    "author": "Zeynep Şahin",
+    "date": "2023-10-18",
+    "img": "https://picsum.photos/id/60/800/400"
+  },
+  {
+    "id": 7,
+    "title": "Bulut Bilişim ve Avantajları",
+    "content": "AWS, Azure ve Google Cloud karşılaştırması. Hangi bulut çözümü ne zaman tercih edilmeli?",
+    "author": "Burak Koç",
+    "date": "2024-01-25",
+    "img": "https://picsum.photos/id/70/800/400"
+  },
+  {
+    "id": 8,
+    "title": "Yapay Zeka Etik Sorunları",
+    "content": "AI geliştirirken karşılaşılan etik ikilemler ve çözüm önerileri.",
+    "author": "Selin Arslan",
+    "date": "2023-09-12",
+    "img": "https://picsum.photos/id/80/800/400"
+  },
+  {
+    "id": 9,
+    "title": "DevOps Kültürü ve Araçları",
+    "content": "CI/CD pipeline nasıl kurulur? Docker, Kubernetes ve Jenkins entegrasyonu.",
+    "author": "Mehmet Yıldız",
+    "date": "2024-02-08",
+    "img": "https://picsum.photos/id/90/800/400"
+  },
+  {
+    "id": 10,
+    "title": "Dijital Pazarlama Stratejileri",
+    "content": "Sosyal medya, SEO ve e-posta pazarlamasında 2024'te işe yarayan taktikler.",
+    "author": "Fatma Aydın",
+    "date": "2023-08-30",
+    "img": "https://picsum.photos/id/100/800/400"
   }
-];
+]
